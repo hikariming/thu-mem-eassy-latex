@@ -1,9 +1,13 @@
-[![Actions Status](https://github.com/tuna/thuthesis/workflows/Test/badge.svg)](https://github.com/tuna/thuthesis/actions)
-[![GitHub downloads](https://img.shields.io/github/downloads/tuna/thuthesis/total)](https://github.com/tuna/thuthesis/releases)
-[![GitHub commits](https://img.shields.io/github/commits-since/tuna/thuthesis/latest)](https://github.com/tuna/thuthesis/commits/master)
-[![GitHub release](https://img.shields.io/github/v/release/tuna/thuthesis)](https://github.com/tuna/thuthesis/releases/latest)
-[![CTAN](https://img.shields.io/ctan/v/thuthesis)](https://www.ctan.org/pkg/thuthesis)
 
+# Thu-mem-essay
+
+清华mem小论文非官方模板，该模板抄自tuna的官方学位论文模板，并进行了极少的修改，并同时给0基础的同学提供了一套简易教程。
+
+因为本作者是一个没出过国，没写过论文的菜逼，所修改的模板或者教程等可能会有错误，请大家批评指正，有问题之处请在github或微信上提issue，或者直接PR。
+
+
+
+# 以下为tuna原master分支的readme：
 
 # ThuThesis
 
