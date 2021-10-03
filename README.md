@@ -153,3 +153,4 @@ make [{all|thesis|spine|doc|clean|cleanall|distclean}]
 * `make distclean` delete all examples' and templates' files and PDFs.
 # thu-mem-eassy-latex
 # thu-mem-eassy-latex
+# thu-mem-eassy-latex
